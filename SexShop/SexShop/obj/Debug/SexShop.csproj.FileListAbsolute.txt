@@ -1,0 +1,30 @@
+C:\Users\Admins\source\repos\SexShop\bin\Debug\SexShop.exe.config
+C:\Users\Admins\source\repos\SexShop\bin\Debug\SexShop.exe
+C:\Users\Admins\source\repos\SexShop\bin\Debug\SexShop.pdb
+C:\Users\Admins\source\repos\SexShop\obj\Debug\SexShop.csprojAssemblyReference.cache
+C:\Users\Admins\source\repos\SexShop\obj\Debug\SexShop.frmSexShop.resources
+C:\Users\Admins\source\repos\SexShop\obj\Debug\SexShop.Properties.Resources.resources
+C:\Users\Admins\source\repos\SexShop\obj\Debug\SexShop.csproj.GenerateResource.cache
+C:\Users\Admins\source\repos\SexShop\obj\Debug\SexShop.csproj.CoreCompileInputs.cache
+C:\Users\Admins\source\repos\SexShop\obj\Debug\SexShop.exe
+C:\Users\Admins\source\repos\SexShop\obj\Debug\SexShop.pdb
+C:\Users\Usuario\Desktop\SexShop\SexShop\obj\Debug\SexShop.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\SexShop\SexShop\obj\Debug\SexShop.frmSexShop.resources
+C:\Users\Usuario\Desktop\SexShop\SexShop\obj\Debug\SexShop.Properties.Resources.resources
+C:\Users\Usuario\Desktop\SexShop\SexShop\obj\Debug\SexShop.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\SexShop\SexShop\obj\Debug\SexShop.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\SexShop\SexShop\obj\Debug\SexShop.exe
+C:\Users\Usuario\Desktop\SexShop\SexShop\obj\Debug\SexShop.pdb
+C:\Users\Usuario\Desktop\SexShop\SexShop\bin\Debug\SexShop.exe.config
+C:\Users\Usuario\Desktop\SexShop\SexShop\bin\Debug\SexShop.exe
+C:\Users\Usuario\Desktop\SexShop\SexShop\bin\Debug\SexShop.pdb
+C:\Users\Usuario\Desktop\Archivos Académicos\Programaciòn\Tecnicatura en Programación\1er Año\2do semestre\Programación II\SexShop\SexShop\bin\Debug\SexShop.exe.config
+C:\Users\Usuario\Desktop\Archivos Académicos\Programaciòn\Tecnicatura en Programación\1er Año\2do semestre\Programación II\SexShop\SexShop\bin\Debug\SexShop.exe
+C:\Users\Usuario\Desktop\Archivos Académicos\Programaciòn\Tecnicatura en Programación\1er Año\2do semestre\Programación II\SexShop\SexShop\bin\Debug\SexShop.pdb
+C:\Users\Usuario\Desktop\Archivos Académicos\Programaciòn\Tecnicatura en Programación\1er Año\2do semestre\Programación II\SexShop\SexShop\obj\Debug\SexShop.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Archivos Académicos\Programaciòn\Tecnicatura en Programación\1er Año\2do semestre\Programación II\SexShop\SexShop\obj\Debug\SexShop.frmSexShop.resources
+C:\Users\Usuario\Desktop\Archivos Académicos\Programaciòn\Tecnicatura en Programación\1er Año\2do semestre\Programación II\SexShop\SexShop\obj\Debug\SexShop.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Archivos Académicos\Programaciòn\Tecnicatura en Programación\1er Año\2do semestre\Programación II\SexShop\SexShop\obj\Debug\SexShop.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Archivos Académicos\Programaciòn\Tecnicatura en Programación\1er Año\2do semestre\Programación II\SexShop\SexShop\obj\Debug\SexShop.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Archivos Académicos\Programaciòn\Tecnicatura en Programación\1er Año\2do semestre\Programación II\SexShop\SexShop\obj\Debug\SexShop.exe
+C:\Users\Usuario\Desktop\Archivos Académicos\Programaciòn\Tecnicatura en Programación\1er Año\2do semestre\Programación II\SexShop\SexShop\obj\Debug\SexShop.pdb
